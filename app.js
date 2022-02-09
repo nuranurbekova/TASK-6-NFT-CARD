@@ -138,3 +138,6 @@ authorName.innerText = ('Jules Wyvern');
 
 authorName.style.color = '#fff';
 authorContainer.appendChild(authorName)
+
+
+alert("Я оцениваю свою работу на 110 баллов")
